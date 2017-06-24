@@ -1,4 +1,4 @@
 sceneSetups:
-- path: Assets/JellyPro.unity
+- path: Assets/MainGameHud/mainHud.unity
   isLoaded: 1
   isActive: 1
